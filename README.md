@@ -1,6 +1,6 @@
 # Guitar Tuner using an Arduino board
 
-This project is a simple realization of a basic guitar tuner using an Arduino board. 
+This project is a simple realization of a basic guitar tuner using an Arduino board. This project was realized in 2017 as a fun project to learn about arduino programming.
 
 ## Inspiration 
 
