@@ -43,5 +43,3 @@ Let's take a look at the experimental setup:
 <p align='justify'>
 In the visual representation, a STM32 board from ST-Microelectronics is shown but the considerations are valid for an Arduino board too. A sound sensor which integrates a microphone and a conditioning system is connected to the board via its analogic output. A button is used to enable the acquisition of the strings signal. A white led is used to notify the user that the system is ready to acquire the signal.
 </p>
-
-:warning: **This repository is a work in progress.**
